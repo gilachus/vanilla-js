@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Coustard&display=swap');
+
+*,::after,*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    font-size: 62.5%;
+}
+body{
+    font-family: 'Coustard', Arial, Helvetica, sans-serif;
+    font-size: 1.6rem;
+}
+.formulario input {
+    font-size: 1.2rem;
+}
+.icono {
+    color: tomato;
+    cursor: pointer;
+}
+td {
+    text-align: left;
+}
